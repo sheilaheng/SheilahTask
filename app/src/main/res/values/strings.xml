@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SheilahTask</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_dasboard2">DasboardActivity2</string>
+</resources>

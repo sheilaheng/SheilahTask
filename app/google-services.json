@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966713479623",
+    "project_id": "sheilahtask-104e8",
+    "storage_bucket": "sheilahtask-104e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966713479623:android:d39d08a728801addd109e2",
+        "android_client_info": {
+          "package_name": "com.example.sheilahtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966713479623-hshs0tsc15pgl0hsvburv5raf86nve75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtXiL4F5j0NQxLsdJQG6RW3H3cFpuSCF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966713479623-hshs0tsc15pgl0hsvburv5raf86nve75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
